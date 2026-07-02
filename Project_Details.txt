@@ -1,0 +1,12 @@
+Tic Tac Toe AI
+
+A simple Tic Tac Toe game where a human player competes against an AI.
+
+Features:
+- Human vs AI gameplay
+- Win and draw detection
+- Console-based interface
+- Built using Python
+
+Run:
+python game.py
